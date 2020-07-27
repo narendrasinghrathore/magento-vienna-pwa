@@ -103,5 +103,8 @@
       "path": "./packages/venia-concept/dist/+([0-9]).*.js",
       "maxSize": "100 kB"
     }
-  ]
+  ],
+  "dependencies": {
+    "firebase-tools": "^8.6.0"
+  }
 }
